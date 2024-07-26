@@ -23,17 +23,16 @@ This is a web app that enables coach and students to connect and meet for 1-1 co
   - moment (for date formatting and timezone conversion)
 
 ## Set up
-
-    - server
-    	- 3-tier architecture:
-    		- controller
-    		- service
-    		- repository layer
-    - frontend
-    	- simple react app set up
-    - database
-    	- RDS mySql database
-    	- client: sqlectron
+  - server
+    - 3-tier architecture:
+      - controller
+      - service
+      - repository layer
+  - frontend
+    - simple react app set up
+  - database
+    - RDS mySql database
+    - client: sqlectron
 
 - project structure (folders organized by next.js routing)
   - srcs/app/
