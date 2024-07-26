@@ -9,6 +9,7 @@ This is a web app that enables coach and students to connect and meet for 1-1 co
 - run `npm install` (if applicable)
 - run `npm run dev`
 - hit http://localhost:{portNumber} on browser
+- run sql script in `script.sql` on your db client
 
 ## Tech stack
 
